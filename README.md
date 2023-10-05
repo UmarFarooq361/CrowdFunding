@@ -12,6 +12,6 @@ This decentralized crowdfunding platform is built using React.js, Tailwind CSS, 
 - **Decentralized:** The application is decentralized, reducing the risk of censorship and providing users with full control over their funds.
 
 - **User-friendly Interface:** The user interface is built with React.js and Tailwind CSS, providing an intuitive and visually appealing experience.
-- 
-Check the working site by connecting your metamask. There is bit issue in image url.
+
+Check the working site by connecting your metamask. There is bit issue in image url. Try this.  
 https://crowdfundingmyumar.netlify.app/
